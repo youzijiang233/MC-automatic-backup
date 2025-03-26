@@ -1,3 +1,3 @@
-#MC-automatic-backup
+# MC-automatic-backup
 
 一个自动备份文件的小程序，可以在不关闭文件的情况下备份，同时也至此启动备份
